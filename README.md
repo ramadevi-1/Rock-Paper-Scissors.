@@ -28,4 +28,3 @@ Project Benefits:
 2. Enhances user experience: The game provides an interactive and engaging experience for users.
 3. Builds game development skills: This project demonstrates basic game development concepts, such as game logic and user interaction.
 
-Overall, the Rock Paper Scissors project is a fun and interactive way to practice web development skills and build a simple game.
